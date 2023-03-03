@@ -3,6 +3,8 @@
 ## :robot: Machine_Learning_chapter1.ipynb
 
 :heavy_check_mark: KNN (k-최근접 이웃분류모델)
+
+:bookmark: 
 - fit() 사이킷런 모델을 훈련 할 때 사용하는 메서드
 - dredict() 사이킷런 모델을 예측 할 때 사용하는 메서드
 - score() 사이킷런 모델을 정확도(accuracy) 할 때 사용하는 메서드 
